@@ -13,7 +13,18 @@ Output:
 
 The code will generate an output file with Pubchem ID and Smiles a
 
- 
+## Screenshots
 
+### Input Screen
+![Input Screen](screenshots/input-screen.png)
+
+### Sample Data Loaded
+![Sample Data](screenshots/sample-data.png)
+
+### Results
+![Results](screenshots/results.png)
+
+### Processing Complete
+![Complete](screenshots/complete-dialog.png)
 
 ******** Enjoy the tool for basic research********

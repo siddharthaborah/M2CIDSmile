@@ -306,7 +306,7 @@ class M2CIDSmileApp(ctk.CTk):
         footer.pack(fill="x", side="bottom", padx=16, pady=(0, 6))
         ctk.CTkLabel(
             footer,
-            text="Developed by Dr. Arabinda Ghosh, Department of Molecular Biology & Bioinformatics, Tripura University",
+            text="Made with ❤ at Tripura University",
             font=ctk.CTkFont(size=11),
             text_color=("#64748b", "#94a3b8"),
         ).pack(side="bottom")

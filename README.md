@@ -3,7 +3,7 @@
 **Original Repository:** [https://github.com/Ara198221/M2CIDSmile-Tool](https://github.com/Ara198221/M2CIDSmile-Tool)
 
 Title:
-Utility Tool for Fetching PubChem IDs and SMILES Strings from Molecule Names Using Public Molecular Databases
+Utility Tool for Fetching PubChem IDs and SMILE Strings from Molecule Names Using Public Molecular Databases
 
 Abstract:
 The ability to create large datasets of molecules and retrieve their SMILES strings and molecular identifiers is important in chemical informatics. The provided R code demonstrates a comprehensive method for obtaining PubChem IDs and canonical SMILES notations for a list of molecules. Utilizing the httr and jsonlite libraries, the code defines a function, `get_pubchem_info`, that processes each molecule name by making API requests to the PubChem database.
